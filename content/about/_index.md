@@ -14,9 +14,9 @@ Hallitsen sosiaalisen median suunnittelun ja tuottamisen, verkkosivujen ylläpid
 #### Koulutus
 
 **Audiovisuaalisen viestinnän pt (media-assistentti).** Nurmijärven Keudan medialinjalla annettiin peruskoulutus kaikkiin median muotoihin, kuten:
-* **Painettu ja sähköinen media**: taittaminen, blogi, verkkosivut, ohjelmointi, 3D-mallinnus...
-* **Valo- ja videokuvaaminen**: kuvaaminen, valaisu, äänitys sekä kuvan, videon ja äänen käsittely ja jälkituotanto...
-* **Graafinen suunnittelu**
+* Painettu ja sähköinen media: taittaminen, blogi, verkkosivut, ohjelmointi, 3D-mallinnus...
+* Valo- ja videokuvaaminen: kuvaaminen, valaisu, äänitys sekä kuvan, videon ja äänen käsittely ja jälkituotanto...
+* Graafinen suunnittelu
 
 Ammatillisissa opinnoissa saavutin parhaat arvosanat, mistä sain tunnustuksena stipendin.
 
@@ -43,4 +43,4 @@ Ammatillisissa opinnoissa saavutin parhaat arvosanat, mistä sain tunnustuksena 
 
 * Kirjoittaminen: Tuotan helposti sisältöä lehdistötiedotteisiin, verkkosivuille, sosiaaliseen mediaan sekä muuhun kommunikaatioon.
 * Tiimityöskentely: Kuuntelen ryhmän jäseniä ja kommunikoin heidän kanssaan erinomaisesti. Vastaanotan avoimesti kritiikkiä työstäni.
-* Tarkkuus: Minulle on tärkeää, että työni lopputulos näyttää ammattimaiselta ja viimeistellyltä.
+* Tarkkuus: Minulle on tärkeää, että työni lopputulos näyttää ammattimaiselta ja viimeistellyltä.  
