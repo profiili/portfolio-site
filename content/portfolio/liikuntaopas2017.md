@@ -6,7 +6,10 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Henkilökunnan liikuntaopas 2017"
 weight = 2
 +++
+
+Graafinen työ, taitto
 <!--more-->
+
 Kaartin jääkäritoimikunnan graafikkona tein erilaisia graafisia töitä myös varuskunnan eri tahoille. Yksi projekteista oli Kaartin jääkärirykmentin henkilökunnan liikuntaoppaan uusiminen.
 
 Korvasin edellisvuoden oppaan tekstit uusilla, tein kuvat, grafiikat sekä kannet ja lopulta lisäsin ne InDesignissa.
