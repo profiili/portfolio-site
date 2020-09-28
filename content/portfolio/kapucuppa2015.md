@@ -8,6 +8,7 @@ tags = "video"
 weight = 1
 +++
 
+Video
 <!--more-->
 
 Keudassa opiskellessani saimme tehtäväksi muovata Blenderissä oma kahvikuppi ja tehdä sille mainosvideo.
