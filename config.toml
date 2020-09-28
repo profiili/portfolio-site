@@ -1,0 +1,43 @@
+baseurl = "https://pyrypartti.fi/"
+title = "Pyry Partti \\ Portfolio"
+theme = "portfolio"
+languageCode = "fi-fi"
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "sea"
+  description = "Pyry Partti portfolio"
+  copyright = "&copy; 2020 Pyry Partti<br/>Made in HEL"
+  sidebarAbout = [
+    "Media-alan moniosaaja, tekemällä oppija.",
+  ]
+  # Contact page
+  [[params.email]]
+  email = "pyry@partti.fi"
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Portfolio"
+  url = "portfolio/"
+  home = true
+
+  [[params.navlinks]]
+  name = "Minusta"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "Nykäise hihasta"
+  url = "contact/"
+
+  [params.social]
+  instagram     = "https://www.instagram.com/profiili"
+  email         = "pyry@partti.fi"
+  linkedin      = "https://www.linkedin.com/in/pyry"
+  github        = "https://github.com/profiili"
+  youtube       = "https://www.youtube.com/user/mpea668"
+  whatsapp      = "https://wa.me/message/Y4RCXHIQODLZB1"
+  # facebook      = "full page or profile url in facebook"
+  # googleplus    = "full profile url in googleplus"
+  # twitter       = "full profile url in twitter"
+  # stackoverflow = "full profile url in stackoverflow"
