@@ -7,7 +7,9 @@ title = "3D: Kapu cuppa 4 & 4XL"
 tags = "video"
 weight = 1
 +++
+
 <!--more-->
+
 Keudassa opiskellessani saimme tehtäväksi muovata Blenderissä oma kahvikuppi ja tehdä sille mainosvideo.
 
 Video on renderöity ja kuvattu ensin Blenderissä, josta siirsin sen Adobe After Effectsiin lisätäkseni tekstit ja niiden maskit. Lopuksi leikkasin videon ja lisäsin musiikin Adobe Premiere Prossa.
