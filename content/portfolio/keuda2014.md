@@ -8,7 +8,7 @@ tags = "video"
 weight = 1
 +++
 
-Video
+_Video_
 <!--more-->
 
 Keudassa opiskellessani saimme tehtäväksi tehdä ryhmissä mainosvideot Keudan eri linjoille. Sähkö- ja automaatiotekniikan esittelyvideossa kuvasin B-rollit sekä leikkasin videon.

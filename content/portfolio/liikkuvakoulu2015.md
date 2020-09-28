@@ -8,7 +8,7 @@ tags = "video"
 weight = 1
 +++
 
-Video
+_Video_
 <!--more-->
 
 Keudassa opiskellessani kävimme Liikkuva koulu School Action Day ‑tapahtumassa Telia 5G Areenalla (silloinen Sonera Stadium) kuvaamassa tapahtuman järjestäjälle mainosmateriaalia.
