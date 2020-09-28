@@ -14,6 +14,7 @@ Hallitsen sosiaalisen median suunnittelun ja tuottamisen, verkkosivujen ylläpid
 #### Koulutus
 
 **Audiovisuaalisen viestinnän pt (media-assistentti).** Nurmijärven Keudan medialinjalla annettiin peruskoulutus kaikkiin median muotoihin, kuten:
+
 * Painettu ja sähköinen media: taittaminen, blogi, verkkosivut, ohjelmointi, 3D-mallinnus...
 * Valo- ja videokuvaaminen: kuvaaminen, valaisu, äänitys sekä kuvan, videon ja äänen käsittely ja jälkituotanto...
 * Graafinen suunnittelu
