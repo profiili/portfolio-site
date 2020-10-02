@@ -14,6 +14,8 @@ Kaartin jääkäritoimikunnan graafikkona tein erilaisia graafisia töitä myös
 
 Korvasin edellisvuoden oppaan tekstit uusilla, tein kuvat, grafiikat sekä kannet ja lopulta lisäsin ne InDesignissa.
 
+[Takaisin portfolioon](../)
+
 ![Kuva][1]
 
 [1]: https://lh3.googleusercontent.com/pw/ACtC-3cvfsZsveahHG-z56pOiLtHFGnA8pCfN21479HVRUDGLBqHRqNkqj2WoNa4CSPwYkpReM2PQlT9E7sm43nWX1SrPLBeYTb_0Z0YOQi3XYpZLi6ocDO4mV-TkYGHHB8tFFgJ_IbnZO6NMXKhNw1LazUi=w1019-h1018-no?authuser=0

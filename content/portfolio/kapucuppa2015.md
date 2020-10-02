@@ -15,6 +15,6 @@ Keudassa opiskellessani saimme tehtäväksi muovata Blenderissä oma kahvikuppi 
 
 Video on renderöity ja kuvattu ensin Blenderissä, josta siirsin sen Adobe After Effectsiin lisätäkseni tekstit ja niiden maskit. Lopuksi leikkasin videon ja lisäsin musiikin Adobe Premiere Prossa.
 
-[![Kapu cuppa 4 & 4XL](https://res.cloudinary.com/marcomontalbano/image/upload/v1601290931/video_to_markdown/images/youtube--KuXsXF7vVlA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=KuXsXF7vVlA "Kapu cuppa 4 & 4XL")
+[Takaisin portfolioon](../)
 
-Video avautuu YouTubessa
+{{< youtube KuXsXF7vVlA >}}  
