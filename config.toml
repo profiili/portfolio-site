@@ -8,7 +8,7 @@ languageCode = "fi-fi"
   # Use custom.css for your custom styling
   style = "sea"
   description = "Pyry Partti portfolio"
-  copyright = "&copy; 2020 Pyry Partti<br/>Made in HEL"
+  copyright = "&copy; 2020-2021 Pyry Partti<br/>Made in HEL"
   sidebarAbout = [
     "Media-alan moniosaaja, tekemällä oppija.",
   ]
@@ -31,12 +31,12 @@ languageCode = "fi-fi"
   url = "contact/"
 
   [params.social]
-  instagram     = "https://www.instagram.com/profiili"
+  # instagram     = "https://www.instagram.com/"
   email         = "pyry@partti.fi"
   linkedin      = "https://www.linkedin.com/in/pyry"
   github        = "https://github.com/profiili"
-  youtube       = "https://www.youtube.com/user/mpea668"
-  whatsapp      = "https://wa.me/message/Y4RCXHIQODLZB1"
+  # youtube       = "https://www.youtube.com/"
+  # whatsapp      = "https://wa.me/"
   # facebook      = "full page or profile url in facebook"
   # googleplus    = "full profile url in googleplus"
   # twitter       = "full profile url in twitter"
