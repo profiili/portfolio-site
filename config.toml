@@ -30,9 +30,9 @@ languageCode = "fi-fi"
   name = "Nykäise hihasta"
   url = "contact/"
   
-  [[params.navlinks]]
-  name = "Julkinen cv"
-  url = "cv/"
+  # [[params.navlinks]]
+  # name = "Julkinen cv"
+  # url = "cv/"
 
   [params.social]
   # instagram     = "https://www.instagram.com/"
