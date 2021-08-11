@@ -5,3 +5,7 @@ git clone https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
 rm -rf hugo-creative-portfolio-theme/.git
 mv -T hugo-creative-portfolio-theme portfolio
 ```
+Actually, before importing the repo, I can just do
+```
+git clone --recurse-submodules https://github.com/profiili/portfolio-site
+```
