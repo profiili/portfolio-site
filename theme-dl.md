@@ -3,5 +3,5 @@ Since I don't yet know how to easily import the theme with the rest of the repo 
 cd themes
 git clone https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
 rm -rf hugo-creative-portfolio-theme/.git
-mv hugo-creative-portfolio-theme portfolio
+mv -T hugo-creative-portfolio-theme portfolio
 ```
