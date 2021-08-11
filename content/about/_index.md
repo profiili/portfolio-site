@@ -3,8 +3,6 @@ date = "2016-11-05T21:05:33+05:30"
 title = "Minusta"
 +++
 
-* **Julkisen CV:n löydät [Google Drivesta](https://drive.google.com/file/d/1mimSPTWKGRCs-ZqG7ybgL2ZdTCnoRoWx/view?usp=sharing).**
-
 _Media-alan moniosaaja, tekemällä oppija._ Mitä se tarkoittaa?
 
 Olen aina ollut kiinnostunut mediasta ja media-alasta. Hakeuduin opiskelemaan media-assistentiksi sekä alan hommiin, oli se sitten armeijan suorittaminen varusmiestoimikunnan graafikkona tai mediatuottajana Helsingin kaupungin projektissa.

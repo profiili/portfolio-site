@@ -6,7 +6,7 @@ languageCode = "fi-fi"
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "sea"
+  style = "green"
   description = "Pyry Partti portfolio"
   copyright = "&copy; 2020-2021 Pyry Partti"
   sidebarAbout = [
@@ -14,7 +14,7 @@ languageCode = "fi-fi"
   ]
   # Contact page
   [[params.email]]
-  email = "pyry@partti.fi"
+  email = "portfolio@pyrypartti.fi"
 
   # Nav links in the side bar
   [[params.navlinks]]
@@ -25,18 +25,18 @@ languageCode = "fi-fi"
   [[params.navlinks]]
   name = "Minusta"
   url = "about/"
+  
+  [[params.navlinks]]
+  name = "CV"
+  url = "about/cv/"
 
   [[params.navlinks]]
   name = "Nykäise hihasta"
   url = "contact/"
-  
-  # [[params.navlinks]]
-  # name = "Julkinen cv"
-  # url = "cv/"
 
   [params.social]
   # instagram     = "https://www.instagram.com/"
-  # email         = "example@example.com"
+  email         = "portfolio@pyrypartti.fi"
   linkedin      = "https://www.linkedin.com/in/pyry"
   github        = "https://github.com/profiili"
   # youtube       = "https://www.youtube.com/"
