@@ -11,7 +11,7 @@ weight = 1
 _Sivusto_
 <!--more-->
 
-[Laskutkuntoon.fi](laskutkuntoon.fi) on vuodesta 2021 asti toiminut tarjouksien koontisivusto, joka keskittyy toistaiseksi operaattoreiden tarjontaan.
+[Laskutkuntoon.fi](https://laskutkuntoon.fi/) on vuodesta 2021 asti toiminut tarjouksien koontisivusto, joka keskittyy toistaiseksi operaattoreiden tarjontaan.
 
 Kuten monissa elämän osa-alueissa: perehtymällä säästää. Täysin ymmärrettävästi kaikilla ei ole aikaa tai kiinnostusta etsiä juuri omaa käyttöä vastaavaa palvelua sopuhintaan. Tässä Laskutkuntoon.fi astuu kuvaan.
 
