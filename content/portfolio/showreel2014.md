@@ -5,7 +5,7 @@ image = "https://lh3.googleusercontent.com/pw/ACtC-3fDcHaSaL6-UzWMc9wGi8tdVLHOes
 date = "2016-11-05T18:25:22+05:30"
 title = "Showreel 2014"
 tags = "video"
-weight = 1
+weight = 5
 +++
 
 _Video_
@@ -13,6 +13,6 @@ _Video_
 
 Showreelissä on näytteitä Keudassa vuonna 2014 tekemistäni videotöistä.
 
-[Takaisin portfolioon](../)
+[Takaisin portfolioon](/)
 
 {{< youtube IRB_z7-aa-Q >}}  

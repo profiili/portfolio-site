@@ -5,7 +5,7 @@ image = "https://lh3.googleusercontent.com/pw/ACtC-3d4VvWJnecnG7RfWddqHY42_jevB6
 date = "2016-11-05T18:25:22+05:30"
 title = "Keuda Sähkö- ja automaatiotekniikka"
 tags = "video"
-weight = 1
+weight = 6
 +++
 
 _Video_
@@ -13,6 +13,6 @@ _Video_
 
 Keudassa opiskellessani saimme tehtäväksi tehdä ryhmissä mainosvideot Keudan eri linjoille. Sähkö- ja automaatiotekniikan esittelyvideossa kuvasin B-rollit sekä leikkasin videon.
 
-[Takaisin portfolioon](../)
+[Takaisin portfolioon](/)
 
 {{< youtube 5gjt6USPAYw >}}  

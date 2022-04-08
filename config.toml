@@ -8,7 +8,7 @@ languageCode = "fi-fi"
   # Use custom.css for your custom styling
   style = "green"
   description = "Pyry Partti portfolio"
-  copyright = "&copy; 2021 Pyry Partti"
+  copyright = "&copy; 2022 Pyry Partti"
   sidebarAbout = [
     "Media-alan moniosaaja, tekemällä oppija",
   ]
@@ -26,12 +26,12 @@ languageCode = "fi-fi"
   name = "Minusta"
   url = "about/"
   
-  [[params.navlinks]]
-  name = "CV"
-  url = "about/cv/"
+  # [[params.navlinks]]
+  # name = "CV"
+  # url = "about/cv/"
 
   [[params.navlinks]]
-  name = "Nykäise hihasta"
+  name = "Ota yhteyttä"
   url = "contact/"
 
   [params.social]

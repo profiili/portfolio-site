@@ -5,7 +5,7 @@ image = "https://lh3.googleusercontent.com/pw/ACtC-3eUWM4Dwj3Lr8o1c5IsPScGR_LMZB
 date = "2016-11-05T18:25:22+05:30"
 title = "Liikkuva koulu: Opetus- ja kulttuuriministerin haastattelu"
 tags = "video"
-weight = 1
+weight = 4
 +++
 
 _Video_
@@ -13,6 +13,6 @@ _Video_
 
 Keudassa opiskellessani kävimme Liikkuva koulu School Action Day ‑tapahtumassa Telia 5G Areenalla (silloinen Sonera Stadium) kuvaamassa tapahtuman järjestäjälle mainosmateriaalia.
 
-[Takaisin portfolioon](../)
+[Takaisin portfolioon](/)
 
 {{< youtube lBiLfyAG7Ac >}}  
